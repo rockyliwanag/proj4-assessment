@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rockyliwanag/proj4-assessment.git/static/css/main.64e51c26.chunk.css",
+    "main.js": "/rockyliwanag/proj4-assessment.git/static/js/main.f2ecdaa4.chunk.js",
+    "main.js.map": "/rockyliwanag/proj4-assessment.git/static/js/main.f2ecdaa4.chunk.js.map",
+    "runtime-main.js": "/rockyliwanag/proj4-assessment.git/static/js/runtime-main.209f2ccd.js",
+    "runtime-main.js.map": "/rockyliwanag/proj4-assessment.git/static/js/runtime-main.209f2ccd.js.map",
+    "static/js/2.36c0ca1e.chunk.js": "/rockyliwanag/proj4-assessment.git/static/js/2.36c0ca1e.chunk.js",
+    "static/js/2.36c0ca1e.chunk.js.map": "/rockyliwanag/proj4-assessment.git/static/js/2.36c0ca1e.chunk.js.map",
+    "index.html": "/rockyliwanag/proj4-assessment.git/index.html",
+    "precache-manifest.0e225904540082318b31922e21aba91a.js": "/rockyliwanag/proj4-assessment.git/precache-manifest.0e225904540082318b31922e21aba91a.js",
+    "service-worker.js": "/rockyliwanag/proj4-assessment.git/service-worker.js",
+    "static/css/main.64e51c26.chunk.css.map": "/rockyliwanag/proj4-assessment.git/static/css/main.64e51c26.chunk.css.map",
+    "static/js/2.36c0ca1e.chunk.js.LICENSE.txt": "/rockyliwanag/proj4-assessment.git/static/js/2.36c0ca1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209f2ccd.js",
+    "static/js/2.36c0ca1e.chunk.js",
+    "static/css/main.64e51c26.chunk.css",
+    "static/js/main.f2ecdaa4.chunk.js"
+  ]
+}
